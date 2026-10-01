@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Flutter Android App",
+			"type": "shell",
+			"command": "Set-Location 'C:\\Users\\jeeva\\OneDrive\\Desktop\\stimulator_testing\\flutter_application_1'; & 'C:\\Users\\jeeva\\OneDrive\\Desktop\\flutter\\bin\\flutter.bat' run -d 79VG95W8GIQ8ONKJ --no-pub",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
